@@ -89,6 +89,12 @@
     steam
     arduino-ide
     flatpak
+    zsh 
+    python3
+    fastfetch
+    cmatrix
+    pipes
+    cava
   ];
 
   # Enable Flatpak
