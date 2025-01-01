@@ -86,7 +86,6 @@
     obsidian
     cider
     discord
-    steam
     arduino-ide
     flatpak
     zsh 
@@ -95,6 +94,12 @@
     cmatrix
     pipes
     cava
+    polybar
+    sddm
+    dropbox
+    plasma-workspace
+    kde-cli-tools
+    kde-gtk-config
   ];
 
   # Enable Flatpak
